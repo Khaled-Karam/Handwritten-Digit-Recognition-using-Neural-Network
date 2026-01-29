@@ -4,8 +4,8 @@ This project implements a Handwritten Digit Recognition system using a Neural Ne
 
 Dataset
 MNIST handwritten digits dataset
-60,000 training images
-10,000 test images
+42000 training images
+5600 test images
 
 Model Architecture
 Flatten layer
